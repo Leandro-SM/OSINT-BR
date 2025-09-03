@@ -150,3 +150,24 @@ https://consultanumero.abrtelecom.com.br/consultanumero/consulta/consultaSituaca
  FollowerWonk (Análise dos Seguidores/Público de uma conta) - https://followerwonk.com/
 
  SimilarWeb (Monitorar Trafego de um site) - https://www.similarweb.com/pt/
+
+
+-------------------------------------------------
+
+# Redes Sociais
+
+## Instagram
+### Visualizar Perfil de Forma Anônima
+**Inflact Instagram Viewer - https://inflact.com/instagram-viewer/**
+Permite visualizar o Posts, Stories, Destaques e Reels de qualquer perfil público, de forma anônima
+
+### Scraping
+**OSINTGRAM - https://www.100security.com.br/osintgram**
+Extrai todas as informações abertas de um perfil (Informações básicas, Seguindo, Seguidores, Curtidas, Comentários, etc.)
+
+## LinkedIn | Scraping
+**LinkedInt - https://github.com/vysecurity/LinkedInt**
+Extrai informações de funcionários de uma empresa e gera um relatório em HTML com Fotos, Nomes, Cargos e possíveis e-mails baseando-se no nome da companhia (Exemplo nome.sobrenome@empresa.com)
+
+**Scrapedin - https://github.com/dchrastil/ScrapedIn**
+Gera um XLSX com o contato, foto de perfil e nomes de todos os funcionários da empresa alvo.
