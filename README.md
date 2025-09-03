@@ -141,6 +141,10 @@ https://consultanumero.abrtelecom.com.br/consultanumero/consulta/consultaSituaca
 
  Google Trends (Monitorar e Comparar busca por termos) - https://trends.google.com.br/trends/
 
+ RegistroBR - https://registro.br/tecnologia/ferramentas/whois/
+
+ WhoIs - https://www.whois.com/whois/
+
  Social Blade (Monitorar Analytics do Youtube/Instagram/Twitter)- https://socialblade.com/
 
  FollowerWonk (Análise dos Seguidores/Público de uma conta) - https://followerwonk.com/
