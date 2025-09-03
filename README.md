@@ -1,5 +1,8 @@
 # OSINT-BR  
 
+<img width="500" height="500" alt="cateyes" src="https://github.com/user-attachments/assets/c157cb78-e4f7-47ba-9f23-76e1ea504a84" />  
+___  
+
 # Framework OSINT para Investigações BR  
 
 ___
