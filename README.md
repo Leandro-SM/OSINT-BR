@@ -1,9 +1,9 @@
 # OSINT-BR
 
 # Framework OSINT para Investigações BR
-
-
-
+#
+#
+#
 ## Finalidade do OSINT - OPEN SOURCE INTELLIGENCE
 ### O que define uma Fonte Aberta
 
