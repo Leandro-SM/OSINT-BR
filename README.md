@@ -175,3 +175,16 @@ Extrai informações de funcionários de uma empresa e gera um relatório em HTM
 **Scrapedin - https://github.com/dchrastil/ScrapedIn**
 
 Gera um XLSX com o contato, foto de perfil e nomes de todos os funcionários da empresa alvo.
+
+
+-------------------------------------------------
+
+# Anti-Paywall
+
+**https://byebyepaywall.com/en/**
+
+**https://www.removepaywall.com/**
+
+**https://removepaywalls.com/**
+
+**https://12ftladder.net/**
