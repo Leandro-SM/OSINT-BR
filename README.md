@@ -170,7 +170,7 @@ Extrai todas as informações abertas de um perfil (Informações básicas, Segu
 ## LinkedIn | Scraping
 **LinkedInt - https://github.com/vysecurity/LinkedInt**
 
-Extrai informações de funcionários de uma empresa e gera um relatório em HTML com Fotos, Nomes, Cargos e possíveis e-mails baseando-se no nome da companhia (Exemplo nome.sobrenome@empresa.com)
+Extrai informações de funcionários de uma empresa e gera um relatório em HTML com Fotos, Nomes, Cargos e possíveis e-mails baseando-se no nome da empresa (Exemplo nome.sobrenome@empresa.com)
 
 **Scrapedin - https://github.com/dchrastil/ScrapedIn**
 
