@@ -8,8 +8,8 @@
 ## Finalidade do OSINT - OPEN SOURCE INTELLIGENCE
 ### O que define uma Fonte Aberta
 
-Inteligência de Fontes Abertas, é a prática de coletar, analisar e interpretar informações disponíveis publicamente para gerar conhecimento útil.
-O uso de Painéis de Consulta não pode se enquadrar como OSINT, pois não necessariamente utiliza fontes abertas, já que ocasionalmente busca bancos de dados com informações vazadas de instituições públicas ou privadas para extrair os dados sensíveis.
+Inteligência de Fontes Abertas, é a prática de coletar, analisar e interpretar informações disponíveis publicamente para gerar conhecimento útil. Alguns exemplos são: Jornais, Rádio, Editais, Artigos, Redes Sociais, Dados Vazados.  
+O uso de Painéis de Consulta não pode se enquadrar como OSINT, pois não necessariamente utiliza fontes abertas, já que ocasionalmente busca bancos de dados de instituições públicas ou privadas com informações que foram vazadas de forma ilegal.  
 
 ## Inteligência de Fontes Abertas (OSINT)
   ###	Possibilidades do OSINT
