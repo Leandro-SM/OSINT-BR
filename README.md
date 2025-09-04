@@ -41,9 +41,9 @@ Escopo;
 
 Exposição e Risco;
 
-Considerações Legais:
+	Considerações Legais:
 
-As informações só devem ser coletadas e processadas se houver um propósito institucional para tal coleta; forem necessárias para alcançar esse propósito; e proporcionais à capacidade de cumprir esse propósito.
+	As informações só devem ser coletadas e processadas se houver um propósito institucional para tal coleta; forem necessárias para alcançar esse propósito; e proporcionais à capacidade de cumprir esse propósito.
 
   ###	Preparação do Ambiente
 Máquina Virtual;
