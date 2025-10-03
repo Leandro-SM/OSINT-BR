@@ -11,6 +11,11 @@ Primeiro, é importante considerar estar em um ambiente/estação de trabalho se
   precisar executar programas que apenas podem ser utilizados em SOs e arquiteturas especificas ou não possua adaptadores de rede/recursos que possibilitem
   o uso 100% de um único sistema operacional.
 
+  Se conecte à um Wi-Fi Público, de um shopping ou supermercado que você não frequente, mas que possua uma conexão minimamente confiavel. (Não estamos em um 
+  nível de paranoia em que é preciso utilizar dados "descartáveis" no Captive Portal dessa rede Wi-Fi, mas use se preferir).
+
+  Assuma o "papel" desde a configuração da máquina virtual, na criação do usuário, nome da máquina, conta utilizada no navegador e mantenha os interesses do
+  perfil, alinhados ao alvo que deseja atingir.
 
 *Não use VPN quando estiver criando as Contas*
   Dependendo da plataforma, seu IP pode ser bloqueado e no pior dos casos você pode ter sucesso na criação do perfil, porém cairá imediatamente em um shadownban.
