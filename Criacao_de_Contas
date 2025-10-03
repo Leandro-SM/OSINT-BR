@@ -1,1 +1,33 @@
+# Boas práticas na Criação de Contas para investigação
 
+---------------
+
+Vamos levar em conta que o equipamento utilizado, seja velho ou de pouco uso, e provavelmente não tenha um desempenho excelente.
+
+Primeiro, é importante considerar estar em um ambiente/estação de trabalho seguro e eficiente.
+  Faça a higienização do seu equipamento e não o polua com diversos programas e ferramentas nativas que prejudiquem o desempenho e enviem dados de relatório 
+  para o fornecedor. Ao invés disso, opte por formatar seu equipamento com partições separadas, instalar apenas o essencial para o funcionamento do SO, 
+  redobrar o cuidado com software pirata e utilizar máquinas virtuais para cada investigação. Dual Boot só será uma alternativa a se considerar, se você 
+  precisar executar programas que apenas podem ser utilizados em SOs e arquiteturas especificas ou não possua adaptadores de rede/recursos que possibilitem
+  o uso 100% de um único sistema operacional.
+
+
+*Não use VPN quando estiver criando as Contas*
+  Dependendo da plataforma, seu IP pode ser bloqueado e no pior dos casos você pode ter sucesso na criação do perfil, porém cairá imediatamente em um shadownban.
+
+
+- Escolha um nome comum, mas não obviamente falso;
+  (Utilize nomes e sobrenomes comuns na região/nacionalidade do alvo)
+
+- Use e-mails temporários ou fornecidos por um provedor de VPN seguro.
+  (Não faça uso de gmail, hotmail, outlook ou outro serviço de e-mail que possa levar até você ou que possua muitas etapas de criação. Quanto menos validação, melhor)
+
+- Informações e 2FA
+  Dados Básicos e Sensíveis, Números de Telefone, E-mails e qualquer dado utilizado na criação ou recuperação da conta, deve ser descartável.
+
+- Contas Pivô
+  Tenha uma conta fake principal que será alimentada com engajamento, interações, comentários e curtidas em temas comuns do mainstream. Ela será um pivô para levar
+  seu alvo até a conta que fará a investigação, pois dará credibilidade para esse perfil, a conta principal parecerá quase 100% oficial e será usada para interagir 
+  com a conta fake durante seu desenvolvimento inicial. Uma conta pivô pode ser usado para diversos fakes, desde que seja para alvos diferentes, pois assim você economiza 
+  o trabalho e tempo de alimentar muitas contas ao mesmo tempo. Um usuário sempre confiará em uma conta que um "amigo" verídico e completamente real, conhece, segue e  
+  interage com alguns posts.
